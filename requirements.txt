@@ -3,7 +3,7 @@ dnspython
 motor
 Pyrogram
 pyromod
-pornhub-api==0.3.0
+pornhub-api==0.4.0
 TgCrypto
 pyproject-toml
 youtube-dl
